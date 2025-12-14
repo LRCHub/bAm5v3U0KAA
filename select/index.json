@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ジャンキーナイトタウンオーケストラ",
+  "base_artist": "すりぃ",
+  "createdAt": "2025-12-14T11:58:03.896379Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジャンキーナイトタウンオーケストラ",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/01_ジャンキーナイトタウンオーケストラ_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジャンキーナイトタウンオーケストラ",
+      "artist": "すりぃ",
+      "has_synced": true,
+      "path": "select/02_ジャンキーナイトタウンオーケストラ_すりぃ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジャンキーナイトタウンオーケストラ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/03_ジャンキーナイトタウンオーケストラ_すりぃ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジャンキーナイトタウンオーケストラ",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/04_ジャンキーナイトタウンオーケストラ_Yuu..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジャンキーナイトタウンオーケストラ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_ジャンキーナイトタウンオーケストラ_すりぃ.txt"
+    }
+  ]
+}
